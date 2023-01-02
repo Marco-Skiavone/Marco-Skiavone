@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Marco-Skiavone
-- 👀 I’m interested in Java SE 8 OOP
+- 👋 Hi, I’m Marco Schiavone
+- 👀 I’m interested in Java OOP
 - 🌱 I have gained OCA (Oracle Certified Associate) Programmer I
 
 <!---
