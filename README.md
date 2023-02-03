@@ -9,11 +9,8 @@ Marco-Skiavone/Marco-Skiavone is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <html>
-<head>
-    <title> TITOLO DI PROVA </title>
-</head>
 <body>
-  <div style="color: red; width: 100px; height: 100px;">
+  <div style="background-color: red; width: 100px; height: 100px;">
       prova 1!
   </div>
 </body>
