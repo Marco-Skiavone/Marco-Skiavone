@@ -8,10 +8,3 @@
 Marco-Skiavone/Marco-Skiavone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<html>
-<body>
-  <div style="background-color: red; width: 100px; height: 100px;">
-      prova 1!
-  </div>
-</body>
-</html>
