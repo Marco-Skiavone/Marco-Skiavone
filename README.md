@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Marco 
 - I am an Italian guy who likes Java OOP Language. I am interested in JavaScript and I am willing to improve my knowledge of HTML5.
   I know C Language (and ANSI C89 standard).
-  
----
+
 #### 📚 I'm currently studying IT subjects at the [University of Turin](http://laurea.educ.di.unito.it)
 <img src="https://www.unito.it/sites/all/themes/bsunito/img/logo_new_2022.svg" alt="University Logo" width="40" height="40" display="inline-block">
 
