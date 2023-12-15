@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
             <hr color="black" height="1px">
             <div>
                 <h4>🧰 Future Toolbox additions</h4>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQL Logo" width="50" height="50"/>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Logo" width="50" height="50"/>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas Logo" width="50" height="50"/>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Logo" width="50" height="50"/>
                 <div style="clear:both"></div>
