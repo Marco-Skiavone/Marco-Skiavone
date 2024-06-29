@@ -9,7 +9,7 @@
             <h3>👋 Hi, I'm Marco </h3>
             <div style="display:flex !important">
                 <h4>I am an Italian guy who likes Java and C Languages. I am interested in JavaScript and I am currently studying it.<br>Furtherfore, I know ISA RISC-V Set Assembly and I like it pretty much.</h4>
-                <h4>I'm studying IT subjects at the <a href="http://laurea.educ.di.unito.it">University of Turin</a>.</h4>
+                <h4>📚 I'm studying IT subjects at the <a href="http://laurea.educ.di.unito.it">University of Turin</a>.</h4>
             </div>
             <hr color="black" height="1px">
             <div>
