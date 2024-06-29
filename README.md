@@ -35,10 +35,10 @@ You can click the Preview link to take a look at your changes.
     <body>
             <h2>👋 Hi, I'm Marco </h2>
             <ul>
-                <li style="list-style:disc;">I am an Italian guy who likes Java OOP Language. I am interested in JavaScript and I am willing to improve my knowledge about it.
-                    Furtherfore, I know C Language (and ANSI C89 standard) and ISA RISC-V Set Assembly.
+                <li style="list-style:disc;">I am an Italian guy who likes Java and C Languages. I am interested in JavaScript and I am studying it.
+                    Furtherfore, I know ISA RISC-V Set Assembly and I like it pretty much.
                 </li>
-            </ul>
+            </ul>jsdhsavdg
             <div>
                 <h4>📚 I'm currently studying IT subjects at the <a href="http://laurea.educ.di.unito.it">University of Turin</a>.<img src="https://www.unito.it/sites/all/themes/bsunito/img/logo_new_2022.svg" alt="University Logo" width="40" height="40"></h4>
             </div>
@@ -57,14 +57,15 @@ You can click the Preview link to take a look at your changes.
                 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"/> 
                 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/>       
+                <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas Logo" width="50" height="50"/>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Logo" width="50" height="50"/>
                 <div style="clear:both"></div>
             </div>
             <hr color="black" height="1px">
             <div>
                 <h4>🧰 Future Toolbox additions</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Logo" width="50" height="50"/>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas Logo" width="50" height="50"/>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Logo" width="50" height="50"/>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original-wordmark.svg" alt="Rust Logo" width="50" height="50"/>
                 <div style="clear:both"></div>
             </div>
     </body>
