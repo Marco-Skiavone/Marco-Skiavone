@@ -3,7 +3,7 @@
     <body>
             <h3>👋 Hi, I'm Marco </h3>
             <div style="display:flex !important">
-                <h4>I am an Italian guy who likes Java and C Languages. I am interested in JavaScript and I am currently studying it.<br>Furthermore, I know ISA RISC-V Set Assembly and I like it pretty much.</h4>
+                <h4>I am an Italian guy who likes Java and C Languages. I am interested in Rust and I would like to start studying it.<br>Furthermore, I know ISA RISC-V Set Assembly and I like it pretty much.</h4>
                 <h4>📚 I have a bachelor degree in IT subjects at the <a href="http://laurea.educ.di.unito.it">University of Turin</a>.</h4>
                 <h5>All my skills and interests are fully shown on my <a href="https://marco-skiavone.github.io" target="_blank">website</a>.</h5>
             </div>
